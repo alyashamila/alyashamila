@@ -20,6 +20,7 @@
 | Project | Description | Skills |
 |--------|-------------|--------|
 | [🎬 IMDB Movie Ratings Sentiment Analysis](https://github.com/alyashamila/movie-review) | Classifies moving reviews as positive or negatives using sentiment analysis. | NLP, Sentiment Analysis, Scikit-learn |
+| [📊 Flight Price Analysis Dashboard (Power BI)](https://github.com/alyashamila/flight-price-analysis) | Analyzing flight prices by the airlines, stops, departure time, and class. | Data Visualization, Power BI |
 
 ---
 
