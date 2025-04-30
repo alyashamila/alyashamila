@@ -9,7 +9,7 @@
 ## 🧠 Skills
 
 - **Languages**: Python, SQL, R, C++
-- **Tools & Platforms**: Power BI, Jupyter, VS Code, Git, Excel
+- **Tools & Platforms**: Power BI, Jupyter, VS Code, Excel
 - **Libraries**: pandas, NumPy, scikit-learn, matplotlib, seaborn, nltk
 - **Cloud & Others**: AWS (Technical Essentials Certified), Microsoft Power BI Data Analyst Certified
 
