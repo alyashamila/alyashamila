@@ -28,7 +28,7 @@
 
 - 🏆 Dean's List Award – CGPA 3.54 (Year 2, Sem 2) & CGPA 3.75 (Year 4, Sem 1)
 - 🛠 Completed Microsoft Official Course: Microsoft Power BI Data Analyst Certification
-- 🧾 Built dashboards & data visualization insights during internship for easier understanding about the data.
+- 🧾 Built dashboards & data visualization insights during internship for easier understanding about the data; data study, data analysis, and summary findings of the data.
 
 ---
 
