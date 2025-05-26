@@ -1,6 +1,6 @@
 ## Hi there, I'm Alya! 👋
 
-🎓 Data Science Student at University Malaysia Sabah - Bachelor of Computer Science with Honours (Data Science)  
+🎓 Data Science student at Universiti Malaysia Sabah - Bachelor of Computer Science with Honours (Data Science)  
 📍 Currently interning at Pizza Hut Malaysia (QSR Brands) under PH Marketing as a Data Science Intern 
 🔍 Actively seeking Data Science entry-level opportunities  
 
