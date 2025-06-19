@@ -19,8 +19,8 @@
 
 | Project | Description | Skills |
 |--------|-------------|--------|
-| [🎬 IMDB Movie Ratings Sentiment Analysis](https://github.com/alyashamila/movie-review) | Classifies moving reviews as positive or negatives using sentiment analysis. | NLP, Sentiment Analysis, Scikit-learn |
-| [📊 Flight Price Analysis Dashboard (Power BI)](https://github.com/alyashamila/flight-price-analysis) | Analyzing flight prices by the airlines, stops, departure time, and class. | Data Visualization, Power BI |
+| [🎬 IMDB Movie Ratings Sentiment Analysis](https://github.com/alyashamila/movie-review) | Classifies movie reviews as positive or negative using sentiment analysis. | NLP, Sentiment Analysis, Scikit-learn |
+| [📊 Flight Price Analysis Dashboard (Power BI)](https://github.com/alyashamila/flight-price-analysis) | Analysing flight prices by the airlines, stops, departure time, and class. | Data Visualisation, Power BI |
 
 ---
 
@@ -28,7 +28,7 @@
 
 - 🏆 Dean's List Award – CGPA 3.54 (Year 2, Sem 2) & CGPA 3.75 (Year 4, Sem 1)
 - 🛠 Completed Microsoft Official Course: Microsoft Power BI Data Analyst Certification
-- 🧾 Built dashboards & data visualization insights during internship for easier understanding about the data; data study, data analysis, and summary findings of the data.
+- 🧾 Extracting data from Treasure Data by using SQL. Built dashboards & data visualisation insights for the marketing team during internship for easier understanding of the data; conducted data study, data analysis, and summary findings of the data.
 
 ---
 
